@@ -3,6 +3,15 @@ Cocos2DBookSource
 
 《Cocos2D权威指南》一书的随书源代码
 
+##如何使用本仓库
+
+首先确保你的电脑上安装了git，然后打开终端，输入以下命令：
+
+    git clone https://github.com/andyque/Cocos2DBookSource.git
+    
+    git submodule update --init
+
+
 ##关于源代码
 
 如果大家发现源代码有错误，或者效果不是很理想，欢迎大家给我指出来，
@@ -13,3 +22,11 @@ Cocos2DBookSource
 讨论的形式可以开issue。
 
 最后，谢谢大家购买本书，祝大家阅读愉快。：）
+
+##项目说明
+
+我把所有的项目都放在一个workspace里面，大家打开这个workspace以后，可以通过选择不同的schema来切换工程。
+
+当然，你也可以到每一个项目的文件夹中去打开相应的xcode工程。
+
+所有的随书资源文件我单独放在Resources目录下面，然后分章节存放。
