@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="80" height="50" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="desert" tilewidth="32" tileheight="32">
+  <image source="desert.png" width="265" height="199"/>
+ </tileset>
+ <layer name="Background" width="80" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt2ssKwjAQBdCqKxUEXwtfiAqCCvP/n+eALiTONKkTddrcxUH7oLQ1ydymTqqqmoBZj/XZwMG5tNGQjdhY2LZia7ZxcJ5eTdmMzYVtB3ZkJ8PxycE1/suFXdntuYy+rqOEfer6OsTV9fVv/m6enZX1ewfn1haoszYpdVZqp2ijD2GdBfglen6+9kdkPRtkvTRafvlG1usq5BebJvMEGBffNckvGBdtMC7KSFmv1RfIe59BhzaYJldtjd3vBVs6uN7cflVbt2zn4HqtKFhOqa3IfzZaG8UYmQb5L69zVXbbs84daPeuqzU2JM0dULBPuJyiKzU2Bu8+8kE2scHclA2yCfwTOTgHgFSlZGSJ9Nyh5RdSjqFl5BLeh0rPHbnyS47/TXsnPXfkyi94pgGAtojNG5RQTy1idffTelpKPpTqLr18/7SeljKHCgDtcgcpReG0
+  </data>
+ </layer>
+ <objectgroup name="Objects" width="80" height="50">
+  <object name="SpawnPoint" x="110" y="1041"/>
+ </objectgroup>
+</map>
