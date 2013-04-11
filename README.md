@@ -8,9 +8,6 @@ Cocos2DBookSource
 首先确保你的电脑上安装了git，然后打开终端，输入以下命令：
 
     git clone https://github.com/andyque/Cocos2DBookSource.git
-    
-    git submodule update --init
-
 
 ##关于源代码
 

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- created with http://www.physicseditor.de -->
+<bodydef version="1.0">
+    <bodies numBodies="2">
+
+        <body name="RetroCoin" dynamic="true" numFixtures="1">
+
+            <fixture
+                density="2"
+                friction="0"
+                restitution="0"
+                filter_categoryBits="1"
+                filter_groupIndex="0"
+                filter_maskBits="65535"
+                isSensor="false"
+                type="POLYGON"
+                numPolygons="4"
+                >
+
+
+                <polygon numVertexes="5">
+
+                    <vertex x="10.5000" y="-9.0000" />
+
+                    <vertex x="12.5000" y="6.0000" />
+
+                    <vertex x="-4.0000" y="-16.5000" />
+
+                    <vertex x="-3.0000" y="-16.5000" />
+
+                    <vertex x="9.0000" y="-15.5000" />
+
+                </polygon>
+
+                <polygon numVertexes="5">
+
+                    <vertex x="-4.0000" y="-16.5000" />
+
+                    <vertex x="12.5000" y="6.0000" />
+
+                    <vertex x="-10.0000" y="14.5000" />
+
+                    <vertex x="-13.5000" y="8.0000" />
+
+                    <vertex x="-13.5000" y="-10.0000" />
+
+                </polygon>
+
+                <polygon numVertexes="3">
+
+                    <vertex x="-10.0000" y="14.5000" />
+
+                    <vertex x="12.5000" y="6.0000" />
+
+                    <vertex x="8.0000" y="14.5000" />
+
+                </polygon>
+
+                <polygon numVertexes="3">
+
+                    <vertex x="12.5000" y="6.0000" />
+
+                    <vertex x="10.5000" y="-9.0000" />
+
+                    <vertex x="11.5000" y="-12.0000" />
+
+                </polygon>
+
+
+            </fixture>
+
+        </body>
+
+        <body name="Player1" dynamic="true" numFixtures="1">
+
+            <fixture
+                density="2"
+                friction="0"
+                restitution="0"
+                filter_categoryBits="1"
+                filter_groupIndex="0"
+                filter_maskBits="65535"
+                isSensor="false"
+                type="POLYGON"
+                numPolygons="1"
+                >
+
+
+                <polygon numVertexes="5">
+
+                    <vertex x="-7.0000" y="-16.0000" />
+
+                    <vertex x="5.0000" y="-16.0000" />
+
+                    <vertex x="11.0000" y="-15.0000" />
+
+                    <vertex x="13.0000" y="16.0000" />
+
+                    <vertex x="-13.0000" y="16.0000" />
+
+                </polygon>
+
+
+            </fixture>
+
+        </body>
+
+    </bodies>
+    <metadata>
+        <format>1</format>
+        <ptm_ratio></ptm_ratio>
+    </metadata>
+</bodydef>

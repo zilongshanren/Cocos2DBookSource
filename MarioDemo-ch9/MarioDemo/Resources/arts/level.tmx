@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<map version="1.0" orientation="orthogonal" width="20" height="10" tilewidth="32" tileheight="32">
+    <tileset firstgid="1" name="collidablesTileSet" tilewidth="32" tileheight="32">
+        <image source="collidablesTileSet.png" width="96" height="32"/>
+    </tileset>
+    <tileset firstgid="4" name="RetroCoin" tilewidth="32" tileheight="32">
+        <image source="RetroCoin.png" width="32" height="32"/>
+        <tile id="0">
+            <properties>
+                <property name="coin" value="1"/>
+            </properties>
+        </tile>
+    </tileset>
+    <tileset firstgid="5" name="ScrollingTileSet" tilewidth="32" tileheight="32">
+        <image source="ScrollingTileSet.png" width="160" height="128"/>
+        <tile id="17">
+            <properties>
+                <property name="box" value="1"/>
+            </properties>
+        </tile>
+        <tile id="18">
+            <properties>
+                <property name="obstacle" value="1"/>
+            </properties>
+        </tile>
+    </tileset>
+    <layer name="background" width="20" height="10">
+        <data encoding="base64" compression="gzip">H4sIAAAAAAAAA2NlYGBgA2J2IOYAYk40zAXE3EDMA8S8WORJVc8PxAJALAjEQkSYR6r6kYjFsLDF8KjFJidOQC2MFsGBhaEYWUwUB8ZlBjLmg2Ji1NLSPACAEDAIIAMAAA==</data>
+    </layer>
+    <layer name="coinLayer" width="20" height="10">
+        <data encoding="base64" compression="gzip">H4sIAAAAAAAAA2NgGBmAhQJ9MExts5H14jKDkN3UBsT4dyQBAIF16DMgAwAA</data>
+    </layer>
+    <objectgroup name="objects" width="20" height="10">
+        <object name="StartPoint" x="14" y="151" width="18" height="18"/>
+        <object name="victoryPoint" x="609" y="36" width="29" height="30"/>
+    </objectgroup>
+    <objectgroup name="wall" width="20" height="10">
+        <object name="wall" x="5" y="227" width="186" height="62">
+            <properties>
+                <property name="isSensor" value="0"/>
+            </properties>
+        </object>
+        <object name="wall" x="260" y="228" width="380" height="60">
+            <properties>
+                <property name="isSensor" value="0"/>
+            </properties>
+        </object>
+        <object x="197" y="236" width="55" height="50">
+            <properties>
+                <property name="isSensor" value="1"/>
+            </properties>
+        </object>
+    </objectgroup>
+</map>

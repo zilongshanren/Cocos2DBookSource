@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+
+<!-- created with http://www.physicseditor.de -->
+
+<plist version="1.0">
+	<dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>1</integer>
+            <key>ptm_ratio</key>
+            <real>32</real>
+        </dict>
+        <key>bodies</key>
+		<dict>
+
+			<key>Icon</key>
+			<dict>
+				<key>anchorpoint</key>
+                <string>{ 0.4912,0.5614 }</string>
+				<key>fixtures</key>
+				<array>
+
+					<dict>
+                        <key>density</key> <real>2</real>
+                        <key>friction</key> <real>0</real>
+                        <key>restitution</key> <real>0</real>
+                        <key>filter_categoryBits</key> <integer>1</integer>
+                        <key>filter_groupIndex</key> <integer>0</integer>
+                        <key>filter_maskBits</key> <integer>65535</integer>
+                        <key>isSensor</key> <false/>
+                        <key>id</key> <string></string>
+                        <key>fixture_type</key> <string>POLYGON</string>
+
+						<key>polygons</key>
+						<array>
+							<array>	
+								<string>{ -15.000,24.000 }</string>	
+								<string>{ -28.000,24.000 }</string>	
+								<string>{ -28.000,-32.000 }</string>	
+								<string>{ -15.000,-22.000 }</string>
+							</array>
+							<array>	
+								<string>{ 15.000,24.000 }</string>	
+								<string>{ 15.000,-22.000 }</string>	
+								<string>{ 28.000,-32.000 }</string>	
+								<string>{ 28.000,24.000 }</string>
+							</array>
+							<array>	
+								<string>{ -15.000,-22.000 }</string>	
+								<string>{ -28.000,-32.000 }</string>	
+								<string>{ 28.000,-32.000 }</string>	
+								<string>{ 15.000,-22.000 }</string>
+							</array>
+						</array>
+                    </dict>
+				</array>
+			</dict>
+		</dict>
+	</dict>
+</plist>
+

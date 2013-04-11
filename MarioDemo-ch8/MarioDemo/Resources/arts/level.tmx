@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<map version="1.0" orientation="orthogonal" width="20" height="10" tilewidth="32" tileheight="32">
+    <tileset firstgid="1" name="collidablesTileSet" tilewidth="32" tileheight="32">
+        <image source="collidablesTileSet.png" width="96" height="32"/>
+    </tileset>
+    <tileset firstgid="4" name="RetroCoin" tilewidth="32" tileheight="32">
+        <image source="RetroCoin.png" width="32" height="32"/>
+    </tileset>
+    <tileset firstgid="5" name="ScrollingTileSet" tilewidth="32" tileheight="32">
+        <image source="ScrollingTileSet.png" width="160" height="128"/>
+    </tileset>
+    <layer name="background" width="20" height="10">
+        <data encoding="base64" compression="gzip">H4sIAAAAAAAAA2NlYGBgA2J2IOYAYk40zAXE3EDMA8S8WORJVc8PxAJALAjEQkSYR6r6kYjFsLDF8KjFJidOQC2MFsGBhaEYWUwUB8ZlBjLmg2Ji1NLSPACAEDAIIAMAAA==</data>
+    </layer>
+    <layer name="coinLayer" width="20" height="10">
+        <data encoding="base64" compression="gzip">H4sIAAAAAAAAA2NgGBmAhQJ9MExts5H14jKDkN3UBsT4dyQBAIF16DMgAwAA</data>
+    </layer>
+    <objectgroup name="objects" width="20" height="10">
+        <object name="StartPoint" x="14" y="151" width="18" height="18"/>
+    </objectgroup>
+</map>
