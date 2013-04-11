@@ -1,0 +1,118 @@
+
+<Levels>
+	<Level>
+        <Name>Chapter1Level1</Name>
+		<Number>1</Number>
+        <Unlocked>1</Unlocked>
+        <Stars>0</Stars>
+		<Data>Some Chapter 1 Level 1 Data</Data>
+        <LevelClear>0</LevelClear>
+        
+        
+        
+	</Level>
+	<Level>
+        <Name>Chapter1Level2</Name>
+		<Number>2</Number>
+        <Unlocked>0</Unlocked>
+        <Stars>0</Stars>
+		<Data>Some Chapter 1 Level 2 Data</Data>
+        
+        <LevelClear>0</LevelClear>
+        
+        
+        
+	</Level>
+	<Level>
+        <Name>Chapter1Level3</Name>
+		<Number>3</Number>
+        <Unlocked>0</Unlocked>
+        <Stars>0</Stars>
+		<Data>Some Chapter 1 Level 3 Data</Data>
+        
+        <LevelClear>0</LevelClear>
+        
+        
+        
+	</Level>
+	<Level>
+        <Name>Chapter1Level4</Name>
+		<Number>4</Number>
+        <Unlocked>0</Unlocked>
+        <Stars>0</Stars>
+		<Data>Some Chapter 1 Level 4 Data</Data>
+        
+        <LevelClear>0</LevelClear>
+        
+        
+	</Level>
+	<Level>
+        <Name>Chapter1Level5</Name>
+		<Number>5</Number>
+        <Unlocked>0</Unlocked>
+        <Stars>0</Stars>
+		<Data>Some Chapter 1 Level 5 Data</Data>
+        
+        <LevelClear>0</LevelClear>
+        
+        
+        
+	</Level>
+	<Level>
+        <Name>Chapter1Level6</Name>
+		<Number>6</Number>
+        <Unlocked>0</Unlocked>
+        <Stars>0</Stars>
+		<Data>Some Chapter 1 Level 6 Data</Data>
+        
+        <LevelClear>0</LevelClear>
+        
+        
+        
+	</Level>
+	<Level>
+        <Name>Chapter1Level7</Name>
+		<Number>7</Number>
+        <Unlocked>0</Unlocked>
+        <Stars>0</Stars>
+		<Data>Some Chapter 1 Level 7 Data</Data>
+        
+        <LevelClear>0</LevelClear>
+        
+	</Level>
+	<Level>
+        <Name>Chapter1Level8</Name>
+		<Number>8</Number>
+        <Unlocked>0</Unlocked>
+        <Stars>0</Stars>
+		<Data>Some Chapter 1 Level 8 Data</Data>
+        
+        <LevelClear>0</LevelClear>
+        
+        
+	</Level>
+	<Level>
+        <Name>Chapter1Level9</Name>
+		<Number>9</Number>
+        <Unlocked>0</Unlocked>
+        <Stars>0</Stars>
+		<Data>Some Chapter 1 Level 9 Data</Data>
+        
+        <LevelClear>0</LevelClear>
+        
+        
+	</Level>
+	<Level>
+        <Name>Chapter1Level10</Name>
+		<Number>10</Number>
+        <Unlocked>0</Unlocked>
+        <Stars>0</Stars>
+		<Data>Some Chapter 1 Level 10 Data</Data>
+        
+        <LevelClear>0</LevelClear>
+        
+        
+        
+	</Level>
+    
+</Levels>

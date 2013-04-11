@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SoundFX</key>
+	<array>
+		<string>angry_girl.mp3</string>
+		<string>coin.mp3</string>
+		<string>missle_warning.mp3</string>
+		<string>babycry.mp3</string>
+		<string>babylaugh.mp3</string>
+		<string>mother.mp3</string>
+	</array>
+	<key>Images</key>
+	<array>
+		<string>Arial.png</string>
+		<string>grass.png</string>
+		<string>bg.png</string>
+		<string>bg_cloud_3.png</string>
+		<string>bg_cloud_2.png</string>
+		<string>bg_cloud_1.png</string>
+	</array>
+	<key>SpriteSheets</key>
+	<array>
+		<string>panda.plist</string>
+	</array>
+	<key>Assets</key>
+	<array/>
+	<key>Music</key>
+	<array>
+		<string>begin.mp3</string>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,28 @@
+
+<Chapters>
+	<Chapter>
+		<Name>Misty Vale</Name>
+		<Number>1</Number>
+    <Unlocked>1</Unlocked>
+	</Chapter>
+	<Chapter>
+		<Name>Bamboo Vale</Name>
+		<Number>2</Number>
+    <Unlocked>0</Unlocked>
+	</Chapter>
+	<Chapter>
+		<Name>Wind Vale</Name>
+		<Number>3</Number>
+    <Unlocked>0</Unlocked>
+	</Chapter>
+	<Chapter>
+		<Name>Kunlun Mountain</Name>
+		<Number>4</Number>
+    <Unlocked>0</Unlocked>
+	</Chapter>
+	<Chapter>
+		<Name>Happy Vale</Name>
+		<Number>5</Number>
+    <Unlocked>0</Unlocked>
+	</Chapter>
+</Chapters>
