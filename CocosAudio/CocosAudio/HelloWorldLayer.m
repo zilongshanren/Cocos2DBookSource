@@ -12,7 +12,7 @@
 
 // Needed to obtain the Navigation Controller
 #import "AppDelegate.h"
-#import "libs/CocosDenshion/SimpleAudioEngine.h"
+#import "SimpleAudioEngine.h"
 #pragma mark - HelloWorldLayer
 
 // HelloWorldLayer implementation

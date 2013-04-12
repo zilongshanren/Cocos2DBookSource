@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:VerticalShootingGame-ch7/VerticalShootingGame.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:AudioSetting/AudioSetting.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:CocosAudio/CocosAudio.xcodeproj">
    </FileRef>
    <FileRef
