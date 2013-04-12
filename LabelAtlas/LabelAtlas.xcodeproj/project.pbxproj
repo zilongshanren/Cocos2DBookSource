@@ -140,6 +140,7 @@
 		89C48B5D17179341000A7801 /* LICENSE_cocos2d.txt in Resources */ = {isa = PBXBuildFile; fileRef = 89C48AF117179341000A7801 /* LICENSE_cocos2d.txt */; };
 		89C48B5E17179341000A7801 /* LICENSE_CocosDenshion.txt in Resources */ = {isa = PBXBuildFile; fileRef = 89C48AF217179341000A7801 /* LICENSE_CocosDenshion.txt */; };
 		89C48B5F17179341000A7801 /* LICENSE_Kazmath.txt in Resources */ = {isa = PBXBuildFile; fileRef = 89C48AF317179341000A7801 /* LICENSE_Kazmath.txt */; };
+		89C4955917179A1D000A7801 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 89C4955817179A1D000A7801 /* Default-568h@2x.png */; };
 		9CBC79A1165CF35000C4C566 /* tuffy_bold_italic-charmap-hd.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9CBC799D165CF35000C4C566 /* tuffy_bold_italic-charmap-hd.plist */; };
 		9CBC79A2165CF35000C4C566 /* tuffy_bold_italic-charmap-hd.png in Resources */ = {isa = PBXBuildFile; fileRef = 9CBC799E165CF35000C4C566 /* tuffy_bold_italic-charmap-hd.png */; };
 		9CBC79A3165CF35000C4C566 /* tuffy_bold_italic-charmap.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9CBC799F165CF35000C4C566 /* tuffy_bold_italic-charmap.plist */; };
@@ -417,6 +418,7 @@
 		89C48AF117179341000A7801 /* LICENSE_cocos2d.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE_cocos2d.txt; sourceTree = "<group>"; };
 		89C48AF217179341000A7801 /* LICENSE_CocosDenshion.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE_CocosDenshion.txt; sourceTree = "<group>"; };
 		89C48AF317179341000A7801 /* LICENSE_Kazmath.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE_Kazmath.txt; sourceTree = "<group>"; };
+		89C4955817179A1D000A7801 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		9CBC799D165CF35000C4C566 /* tuffy_bold_italic-charmap-hd.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "tuffy_bold_italic-charmap-hd.plist"; sourceTree = "<group>"; };
 		9CBC799E165CF35000C4C566 /* tuffy_bold_italic-charmap-hd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tuffy_bold_italic-charmap-hd.png"; sourceTree = "<group>"; };
 		9CBC799F165CF35000C4C566 /* tuffy_bold_italic-charmap.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "tuffy_bold_italic-charmap.plist"; sourceTree = "<group>"; };
@@ -446,6 +448,7 @@
 		8968E6D815F830F200897915 = {
 			isa = PBXGroup;
 			children = (
+				89C4955817179A1D000A7801 /* Default-568h@2x.png */,
 				89C489F817179341000A7801 /* cocos2d-iphone */,
 				8968E6F915F830F200897915 /* LabelAtlas */,
 				8968E6E615F830F200897915 /* Frameworks */,
@@ -939,6 +942,7 @@
 				89C48B5D17179341000A7801 /* LICENSE_cocos2d.txt in Resources */,
 				89C48B5E17179341000A7801 /* LICENSE_CocosDenshion.txt in Resources */,
 				89C48B5F17179341000A7801 /* LICENSE_Kazmath.txt in Resources */,
+				89C4955917179A1D000A7801 /* Default-568h@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

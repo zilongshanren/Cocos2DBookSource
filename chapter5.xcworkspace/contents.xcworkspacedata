@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:VerticalShootingGame-ch5/VerticalShootingGame-ch5.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:LabelAtlas/LabelAtlas.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:LabelBMFont/LabelBMFont.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:LabelTTF/LabelTTF.xcodeproj">
+   </FileRef>
+</Workspace>

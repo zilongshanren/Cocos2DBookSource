@@ -152,6 +152,7 @@
 		8979F7A61573B5FB003895C5 /* bullet1.png in Resources */ = {isa = PBXBuildFile; fileRef = 8979F7A11573B5FB003895C5 /* bullet1.png */; };
 		8979F7A71573B5FB003895C5 /* enemy1.png in Resources */ = {isa = PBXBuildFile; fileRef = 8979F7A21573B5FB003895C5 /* enemy1.png */; };
 		8979F7A81573B5FB003895C5 /* game_music.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8979F7A31573B5FB003895C5 /* game_music.mp3 */; };
+		89C4953F17179793000A7801 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 89C4953E17179793000A7801 /* Default-568h@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -436,6 +437,7 @@
 		8979F7A11573B5FB003895C5 /* bullet1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bullet1.png; sourceTree = "<group>"; };
 		8979F7A21573B5FB003895C5 /* enemy1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = enemy1.png; sourceTree = "<group>"; };
 		8979F7A31573B5FB003895C5 /* game_music.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = game_music.mp3; sourceTree = "<group>"; };
+		89C4953E17179793000A7801 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -851,6 +853,7 @@
 		8979F61B1573ABC9003895C5 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				89C4953E17179793000A7801 /* Default-568h@2x.png */,
 				8979F79F1573B5FB003895C5 /* arts */,
 				8979F61C1573ABC9003895C5 /* Default.png */,
 				8979F61E1573ABC9003895C5 /* fps_images.png */,
@@ -924,7 +927,7 @@
 		8979F5FB1573ABC8003895C5 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0430;
+				LastUpgradeCheck = 0460;
 			};
 			buildConfigurationList = 8979F5FE1573ABC8003895C5 /* Build configuration list for PBXProject "VerticalShootingGame-ch2" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -978,6 +981,7 @@
 				896FED7F1716E67600D55B0C /* LICENSE_cocos2d.txt in Resources */,
 				896FED801716E67600D55B0C /* LICENSE_CocosDenshion.txt in Resources */,
 				896FED811716E67600D55B0C /* LICENSE_Kazmath.txt in Resources */,
+				89C4953F17179793000A7801 /* Default-568h@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1104,6 +1108,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_OPTIMIZATION_LEVEL = 0;
@@ -1114,6 +1122,7 @@
 				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
 				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
 				SDKROOT = iphoneos;
@@ -1125,6 +1134,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -1133,6 +1146,7 @@
 				);
 				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
 				SDKROOT = iphoneos;

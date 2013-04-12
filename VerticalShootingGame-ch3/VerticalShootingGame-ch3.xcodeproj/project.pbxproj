@@ -150,6 +150,7 @@
 		89C47BE517178E9B000A7801 /* LICENSE_cocos2d.txt in Resources */ = {isa = PBXBuildFile; fileRef = 89C47B7917178E9B000A7801 /* LICENSE_cocos2d.txt */; };
 		89C47BE617178E9B000A7801 /* LICENSE_CocosDenshion.txt in Resources */ = {isa = PBXBuildFile; fileRef = 89C47B7A17178E9B000A7801 /* LICENSE_CocosDenshion.txt */; };
 		89C47BE717178E9B000A7801 /* LICENSE_Kazmath.txt in Resources */ = {isa = PBXBuildFile; fileRef = 89C47B7B17178E9B000A7801 /* LICENSE_Kazmath.txt */; };
+		89C4954317179848000A7801 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 89C4954217179848000A7801 /* Default-568h@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -433,6 +434,7 @@
 		89C47B7917178E9B000A7801 /* LICENSE_cocos2d.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE_cocos2d.txt; sourceTree = "<group>"; };
 		89C47B7A17178E9B000A7801 /* LICENSE_CocosDenshion.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE_CocosDenshion.txt; sourceTree = "<group>"; };
 		89C47B7B17178E9B000A7801 /* LICENSE_Kazmath.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE_Kazmath.txt; sourceTree = "<group>"; };
+		89C4954217179848000A7801 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -458,6 +460,7 @@
 		8979F5F91573ABC8003895C5 = {
 			isa = PBXGroup;
 			children = (
+				89C4954217179848000A7801 /* Default-568h@2x.png */,
 				89C47A8017178E9A000A7801 /* cocos2d-iphone */,
 				8979F61A1573ABC9003895C5 /* VerticalShootingGame */,
 				8979F6071573ABC9003895C5 /* Frameworks */,
@@ -971,6 +974,7 @@
 				89C47BE517178E9B000A7801 /* LICENSE_cocos2d.txt in Resources */,
 				89C47BE617178E9B000A7801 /* LICENSE_CocosDenshion.txt in Resources */,
 				89C47BE717178E9B000A7801 /* LICENSE_Kazmath.txt in Resources */,
+				89C4954317179848000A7801 /* Default-568h@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

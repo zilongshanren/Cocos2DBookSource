@@ -141,6 +141,7 @@
 		89C4926B171794D1000A7801 /* LICENSE_cocos2d.txt in Resources */ = {isa = PBXBuildFile; fileRef = 89C491FF171794D1000A7801 /* LICENSE_cocos2d.txt */; };
 		89C4926C171794D1000A7801 /* LICENSE_CocosDenshion.txt in Resources */ = {isa = PBXBuildFile; fileRef = 89C49200171794D1000A7801 /* LICENSE_CocosDenshion.txt */; };
 		89C4926D171794D1000A7801 /* LICENSE_Kazmath.txt in Resources */ = {isa = PBXBuildFile; fileRef = 89C49201171794D1000A7801 /* LICENSE_Kazmath.txt */; };
+		89C4955D17179A69000A7801 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 89C4955C17179A69000A7801 /* Default-568h@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -415,6 +416,7 @@
 		89C491FF171794D1000A7801 /* LICENSE_cocos2d.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE_cocos2d.txt; sourceTree = "<group>"; };
 		89C49200171794D1000A7801 /* LICENSE_CocosDenshion.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE_CocosDenshion.txt; sourceTree = "<group>"; };
 		89C49201171794D1000A7801 /* LICENSE_Kazmath.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE_Kazmath.txt; sourceTree = "<group>"; };
+		89C4955C17179A69000A7801 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -440,6 +442,7 @@
 		8968EA3D15F8410E00897915 = {
 			isa = PBXGroup;
 			children = (
+				89C4955C17179A69000A7801 /* Default-568h@2x.png */,
 				8968EA5E15F8410E00897915 /* TouchEvents */,
 				8968EA4B15F8410E00897915 /* Frameworks */,
 				8968EA4915F8410E00897915 /* Products */,
@@ -927,6 +930,7 @@
 				89C4926B171794D1000A7801 /* LICENSE_cocos2d.txt in Resources */,
 				89C4926C171794D1000A7801 /* LICENSE_CocosDenshion.txt in Resources */,
 				89C4926D171794D1000A7801 /* LICENSE_Kazmath.txt in Resources */,
+				89C4955D17179A69000A7801 /* Default-568h@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

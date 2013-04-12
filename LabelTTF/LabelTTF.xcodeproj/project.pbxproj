@@ -140,6 +140,7 @@
 		89C48CC51717937E000A7801 /* LICENSE_cocos2d.txt in Resources */ = {isa = PBXBuildFile; fileRef = 89C48C591717937E000A7801 /* LICENSE_cocos2d.txt */; };
 		89C48CC61717937E000A7801 /* LICENSE_CocosDenshion.txt in Resources */ = {isa = PBXBuildFile; fileRef = 89C48C5A1717937E000A7801 /* LICENSE_CocosDenshion.txt */; };
 		89C48CC71717937E000A7801 /* LICENSE_Kazmath.txt in Resources */ = {isa = PBXBuildFile; fileRef = 89C48C5B1717937E000A7801 /* LICENSE_Kazmath.txt */; };
+		89C49555171799EA000A7801 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 89C49554171799EA000A7801 /* Default-568h@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -413,6 +414,7 @@
 		89C48C591717937E000A7801 /* LICENSE_cocos2d.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE_cocos2d.txt; sourceTree = "<group>"; };
 		89C48C5A1717937E000A7801 /* LICENSE_CocosDenshion.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE_CocosDenshion.txt; sourceTree = "<group>"; };
 		89C48C5B1717937E000A7801 /* LICENSE_Kazmath.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE_Kazmath.txt; sourceTree = "<group>"; };
+		89C49554171799EA000A7801 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -438,6 +440,7 @@
 		8968E53115F82FA900897915 = {
 			isa = PBXGroup;
 			children = (
+				89C49554171799EA000A7801 /* Default-568h@2x.png */,
 				89C48B601717937E000A7801 /* cocos2d-iphone */,
 				8968E55215F82FA900897915 /* LabelTTF */,
 				8968E53F15F82FA900897915 /* Frameworks */,
@@ -923,6 +926,7 @@
 				89C48CC51717937E000A7801 /* LICENSE_cocos2d.txt in Resources */,
 				89C48CC61717937E000A7801 /* LICENSE_CocosDenshion.txt in Resources */,
 				89C48CC71717937E000A7801 /* LICENSE_Kazmath.txt in Resources */,
+				89C49555171799EA000A7801 /* Default-568h@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

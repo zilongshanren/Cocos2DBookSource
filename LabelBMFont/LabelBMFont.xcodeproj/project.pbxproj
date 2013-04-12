@@ -142,6 +142,7 @@
 		89C48E2D171793B9000A7801 /* LICENSE_cocos2d.txt in Resources */ = {isa = PBXBuildFile; fileRef = 89C48DC1171793B9000A7801 /* LICENSE_cocos2d.txt */; };
 		89C48E2E171793B9000A7801 /* LICENSE_CocosDenshion.txt in Resources */ = {isa = PBXBuildFile; fileRef = 89C48DC2171793B9000A7801 /* LICENSE_CocosDenshion.txt */; };
 		89C48E2F171793B9000A7801 /* LICENSE_Kazmath.txt in Resources */ = {isa = PBXBuildFile; fileRef = 89C48DC3171793B9000A7801 /* LICENSE_Kazmath.txt */; };
+		89C4955717179A03000A7801 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 89C4955617179A03000A7801 /* Default-568h@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -417,6 +418,7 @@
 		89C48DC1171793B9000A7801 /* LICENSE_cocos2d.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE_cocos2d.txt; sourceTree = "<group>"; };
 		89C48DC2171793B9000A7801 /* LICENSE_CocosDenshion.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE_CocosDenshion.txt; sourceTree = "<group>"; };
 		89C48DC3171793B9000A7801 /* LICENSE_Kazmath.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE_Kazmath.txt; sourceTree = "<group>"; };
+		89C4955617179A03000A7801 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -442,6 +444,7 @@
 		8968E88115F8321500897915 = {
 			isa = PBXGroup;
 			children = (
+				89C4955617179A03000A7801 /* Default-568h@2x.png */,
 				89C48CC8171793B9000A7801 /* cocos2d-iphone */,
 				8968E8A215F8321500897915 /* LabelBMFont */,
 				8968E88F15F8321500897915 /* Frameworks */,
@@ -931,6 +934,7 @@
 				89C48E2D171793B9000A7801 /* LICENSE_cocos2d.txt in Resources */,
 				89C48E2E171793B9000A7801 /* LICENSE_CocosDenshion.txt in Resources */,
 				89C48E2F171793B9000A7801 /* LICENSE_Kazmath.txt in Resources */,
+				89C4955717179A03000A7801 /* Default-568h@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

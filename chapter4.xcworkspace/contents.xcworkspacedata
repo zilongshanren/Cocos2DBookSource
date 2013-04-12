@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:CompositionActions/CompositionActions.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:AnimationActions/AnimationActions.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:CallbackActions/CallbackActions.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:EaseActions/EaseActions.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:BlockActions/BlockActions.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:DelayActions/DelayActions.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:EffectsAction/EffectsAction.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ReverseAction/ReverseAction.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:BasicActions/BasicActions.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:VerticalShootingGame-ch4/VerticalShootingGame-ch4.xcodeproj">
+   </FileRef>
+</Workspace>
