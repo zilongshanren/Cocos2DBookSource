@@ -2,6 +2,15 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:AnimationActions/AnimationActions.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:VerticalShootingGame-ch4/VerticalShootingGame-ch4.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:VerticalShootingGame-ch3/VerticalShootingGame-ch3.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:VerticalShootingGame-ch2/VerticalShootingGame-ch2.xcodeproj">
    </FileRef>
    <FileRef
