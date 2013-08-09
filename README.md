@@ -26,3 +26,7 @@
 当然，你也可以到每一个项目的文件夹中去打开相应的xcode工程。
 
 所有的随书资源文件我单独放在Resources目录下面，然后分章节存放。
+
+**Licence:**
+
+Do What The Fuck You Want To Public License ([WTFPL](http://www.wtfpl.net/)).
